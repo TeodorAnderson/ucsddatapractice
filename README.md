@@ -1,1 +1,2 @@
 "# ucsddata"  
+"Author: Teodor Anderson" 
